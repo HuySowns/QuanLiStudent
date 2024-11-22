@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Huyson\Huyson\bin\Debug\Huyson.exe.config
+C:\Users\Asus\source\repos\Huyson\Huyson\bin\Debug\Huyson.exe
+C:\Users\Asus\source\repos\Huyson\Huyson\bin\Debug\Huyson.pdb
+C:\Users\Asus\source\repos\Huyson\Huyson\obj\Debug\Huyson.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Huyson\Huyson\obj\Debug\Huyson.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Huyson\Huyson\obj\Debug\Huyson.exe
+C:\Users\Asus\source\repos\Huyson\Huyson\obj\Debug\Huyson.pdb
